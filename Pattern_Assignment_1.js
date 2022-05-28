@@ -26,7 +26,7 @@ for(let i=0;i<5;i++)
 
 // fifth
 
- for(i=65,j=1;j<=5;j++)
+ for(let i=65,j=1;j<=5;j++)
  {
    console.log(String.fromCharCode(i,i+1,i+2,i+3,i+4));
  }

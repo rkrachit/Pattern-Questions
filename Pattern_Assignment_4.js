@@ -30,24 +30,7 @@ for(i=1;i<=5;i++)
     }
     console.log()
     }
-
-
-    // 33
-     
-for(i=1;i<=5;i++)
-{
-    for(j=1;j<=5;j++)
-    {
-        if(j>=i){
-           process.stdout.write(String.fromCharCode(""+( 64+i))); 
-        }else{
-            process.stdout.write(" ");
-        } 
-    }
-    console.log()
-    }
-
-
+    
 
     // 33
      
